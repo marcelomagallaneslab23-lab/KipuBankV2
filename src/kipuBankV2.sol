@@ -280,5 +280,6 @@ contract KipuBankV2 is AccessControl, IKipuBankV2 {
 
 
 Direccion de contrato:
-https://eth-sepolia.blockscout.com/address/0x44a31AB7aA20C473DF93ecB73867Da437F49398c?tab=contract_source_code
+https://eth-sepolia.blockscout.com/address/0x1a822D16Ae36795c9f4b85EB72727d2A9A7878a4?tab=contract
+
 
