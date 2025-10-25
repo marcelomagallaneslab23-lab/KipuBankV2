@@ -65,7 +65,7 @@ using SafeERC20 for IERC20;
  * @title KipuBankV2
  * @notice Contrato bancario multi-token con límites en USD (Chainlink) y control de acceso basado en roles.
  * @dev Usa OpenZeppelin AccessControl para gestión de roles y SafeERC20 para transferencias seguras.
- * @author RemixAI
+ * @author marcelomagallanes-dev
  * @custom:security-contacts security@example.com
  * @custom:security-review Auditar antes de usar en producción.
  */
@@ -281,3 +281,4 @@ contract KipuBankV2 is AccessControl, IKipuBankV2 {
 
 Direccion de contrato:
 https://eth-sepolia.blockscout.com/address/0x44a31AB7aA20C473DF93ecB73867Da437F49398c?tab=contract_source_code
+
