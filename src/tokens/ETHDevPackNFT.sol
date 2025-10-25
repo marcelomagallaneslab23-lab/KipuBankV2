@@ -36,5 +36,6 @@ contract ETHDevPackNFT is ERC721, Ownable {
         _safeMint(msg.sender, tokenId);
     }
 
-    // ...
+    
+
 }
